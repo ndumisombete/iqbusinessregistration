@@ -50,7 +50,8 @@ Mysql Workbench
 
 Submit form information
 
-![Mysql_bench](https://user-images.githubusercontent.com/15628986/138229774-838758bb-b7dd-4394-94d1-5546038f1dc4.PNG)
+![post_person_information](https://user-images.githubusercontent.com/15628986/138230368-85506424-35f5-4eef-b4b5-6415e7ae0a08.PNG)
+
 
 Form submitted successful
 
