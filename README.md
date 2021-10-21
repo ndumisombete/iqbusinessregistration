@@ -14,7 +14,7 @@ Make sure you have MYSQL intalled on your machine
 
 
 
-How to run the project?
+#How to run the project?
 
 1. clone the project from github
 2. Open the project on your Intellij or any other IDE you maybe using
@@ -26,7 +26,7 @@ When the application running
 
 You can start your postman or go to your browser and start swagger-ui
 
-To test using swagger-ui use the url
+#To test using swagger-ui use the url
 
 http://localhost:8080/swagger-ui.html
 
