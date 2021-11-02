@@ -30,34 +30,22 @@ To test using swagger-ui use the url
 
 http://localhost:8080/swagger-ui.html
 
-You will find 2 endpoints
+You will find 3 endpoints
 
-Post : http://localhost:8080/v1/person
-{
-  "fullName": "Ndumiso Mbete",
-  "idNumber": 8706112348084,
-  "personId": "0",
-  "telephoneNumber": "0731230109"
-}
-And 
-
-Get : http://localhost:8080/v1/persons
+![image](https://user-images.githubusercontent.com/15628986/139850757-3fdbb3ce-18fd-4073-b455-6344ed00a6e1.png)
 
 
-Mysql Workbench
 
-![Mysql_bench](https://user-images.githubusercontent.com/15628986/138229614-f0487567-9661-4087-bf12-fa7103b3cb97.PNG)
+Get : http://localhost:8080/v1/measurementcategories
 
-Submit form information
-
-![post_person_information](https://user-images.githubusercontent.com/15628986/138230368-85506424-35f5-4eef-b4b5-6415e7ae0a08.PNG)
+![image](https://user-images.githubusercontent.com/15628986/139851044-14f53225-2947-4a9f-ab57-f293bc8b57d8.png)
 
 
-Form submitted successful
+Get : http://localhost:8080/v1/units
 
-![post_person_information_successful](https://user-images.githubusercontent.com/15628986/138229894-952717b6-6676-4944-b131-98779c73bcc5.PNG)
 
-Get the list of all submitted form information
+![image](https://user-images.githubusercontent.com/15628986/139851351-a4ce47dd-d57b-46b0-a958-aeee55facaf6.png)
 
-![get_person_information](https://user-images.githubusercontent.com/15628986/138230184-0cc84b84-c244-417a-bfe0-1c8a03131107.PNG)
+Get : http://localhost:8080/v1/TEMPERATURE/IMPERIAL/3.0
 
+![image](https://user-images.githubusercontent.com/15628986/139852053-b261d6eb-ce48-4cba-b5ab-bacd7493f8a7.png)
